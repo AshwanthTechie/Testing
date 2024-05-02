@@ -1,0 +1,25 @@
+2024-05-02 10:43:00 INFO  Mayoclinic:66 - open URL
+  2024-05-02 10:43:09 INFO  Mayoclinic:76 - Designation
+  2024-05-02 10:43:12 WARN  Mayoclinic:84 - wait for 3 sec
+  2024-05-02 10:43:16 WARN  Mayoclinic:100 - wait for 3 sec
+  2024-05-02 10:43:23 WARN  Mayoclinic:116 - wait for 3 sec
+  2024-05-02 10:43:23 INFO  Mayoclinic:117 - personal details filled
+  2024-05-02 10:43:25 INFO  Mayoclinic:127 - terminated
+  2024-05-02 10:54:35 INFO  Mayoclinic:61 - open URL
+  2024-05-02 10:54:43 INFO  Mayoclinic:71 - Designation
+  2024-05-02 10:54:46 WARN  Mayoclinic:79 - wait for 3 sec
+  2024-05-02 10:56:34 INFO  Mayoclinic:61 - open URL
+  2024-05-02 10:56:40 INFO  Mayoclinic:71 - Designation
+  2024-05-02 10:56:43 WARN  Mayoclinic:79 - wait for 3 sec
+  2024-05-02 10:56:48 WARN  Mayoclinic:103 - wait for 3 sec
+  2024-05-02 10:56:55 WARN  Mayoclinic:119 - wait for 3 sec
+  2024-05-02 10:56:55 INFO  Mayoclinic:120 - personal details filled
+  2024-05-02 10:56:58 INFO  Mayoclinic:130 - terminated
+  2024-05-02 11:09:26 INFO  Mayoclinic:61 - open URL
+  2024-05-02 11:09:33 INFO  Mayoclinic:71 - Designation
+  2024-05-02 11:09:36 WARN  Mayoclinic:79 - wait for 3 sec
+  2024-05-02 11:09:41 WARN  Mayoclinic:103 - wait for 3 sec
+  2024-05-02 11:09:48 WARN  Mayoclinic:119 - wait for 3 sec
+  2024-05-02 11:09:48 INFO  Mayoclinic:120 - personal details filled
+  2024-05-02 11:09:50 INFO  Mayoclinic:130 - terminated
+  
